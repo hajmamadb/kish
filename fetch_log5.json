@@ -1,0 +1,80 @@
+[
+ {
+  "n": 6,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "06_موزه هنر زیرآبی (با تور غواصی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 11,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "11_مدرسه STEM، کدنویسی و رباتیک کودکان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 14,
+  "ok": true,
+  "src_q": "cat:King Abdulaziz Center for World Culture",
+  "file_used": "File:King Abdulaziz Center for World Culture facade 2.jpg",
+  "width": 4160,
+  "path": "14_موزه هنر معاصر.jpg",
+  "bytes": 418276
+ },
+ {
+  "n": 21,
+  "ok": true,
+  "src_q": "cat:Elbphilharmonie",
+  "file_used": "File:BMW R 1100 motorcycle in front of the Elbphilharmonie in the Hanseatic city of Hamburg in August 2024.jpg",
+  "width": 12039,
+  "path": "21_سالن کنسرت سمفونیک.jpg",
+  "bytes": 1788539
+ },
+ {
+  "n": 22,
+  "ok": true,
+  "src_q": "wiki:Theatre",
+  "file_used": "Theatre",
+  "width": 1920,
+  "path": "22_تئاتر کوچک   آزمایشگاهی.jpg",
+  "bytes": 1181938
+ },
+ {
+  "n": 39,
+  "src": "wiki",
+  "q": "Lecture hall",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 39,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "39_آموزش مادام‌العمر   آموزش بزرگسالان.jpg",
+  "bytes": 357128
+ },
+ {
+  "n": 56,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "56_مرکز اطلاع‌رسانی گردشگری.jpg",
+  "bytes": 509567
+ },
+ {
+  "n": 61,
+  "ok": true,
+  "src_q": "cat:International Film Festival Rotterdam",
+  "file_used": "File:IFFR.jpg",
+  "width": 5472,
+  "path": "61_خانهٔ دائمی جشنواره‌ها (Festival House).jpg",
+  "bytes": 95421
+ }
+]

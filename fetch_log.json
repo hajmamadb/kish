@@ -1,0 +1,586 @@
+[
+ {
+  "n": 1,
+  "kw": "Exploratorium San Francisco",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 1,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "01_مرکز علم تعاملی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 2,
+  "kw": "Cité des enfants",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 2,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "02_مرکز علمی کودکان (با تفکیک سن).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 3,
+  "ok": true,
+  "kw_used": "La Géode Paris",
+  "file_used": "File:Paris - Orthophotographie - 2018 - Parc de la Villette 01.jpg",
+  "width": 7733,
+  "path": "03_پلانتریوم و گنبد کیهانی.jpg",
+  "bytes": 1011571
+ },
+ {
+  "n": 4,
+  "ok": true,
+  "kw_used": "teamLab Borderless",
+  "file_used": "File:TeamLab Borderless, Odaiba, Tokyo, Japan (49070650346).jpg",
+  "width": 6000,
+  "path": "04_نمایشگاه هنر دیجیتال غوطه‌ور (Immersive).jpg",
+  "bytes": 332741
+ },
+ {
+  "n": 5,
+  "ok": true,
+  "kw_used": "Dubai Aquarium",
+  "file_used": "File:Dubai Zoo (5768518653).jpg",
+  "width": 4000,
+  "path": "05_آکواریم و مرکز دانش دریا.jpg",
+  "bytes": 385444
+ },
+ {
+  "n": 6,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "06_موزه هنر زیرآبی (با تور غواصی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 7,
+  "kw": "Old Royal Observatory Greenwich",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 7,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "07_رصدخانه نجوم و برنامه «آسمان تاریک».jpg",
+  "bytes": 0
+ },
+ {
+  "n": 8,
+  "ok": true,
+  "kw_used": "Fab Lab",
+  "file_used": "File:Ciudadanos en FabLAB de LABNL.jpg",
+  "width": 5616,
+  "path": "08_میکر‌اسپیس و فابل‌لب (چاپ سه‌بعدی و ساخت دیجیتال).jpg",
+  "bytes": 296204
+ },
+ {
+  "n": 9,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "09_مرکز تجربه VR AR (واقعیت مجازی آزادراه‌دار).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 10,
+  "ok": true,
+  "kw_used": "science cafe",
+  "file_used": "File:Coffee Science, New Orleans, 10 January 2022 - 01.jpg",
+  "width": 5184,
+  "path": "10_کافه علمی (Science Café).jpg",
+  "bytes": 730104
+ },
+ {
+  "n": 11,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "11_مدرسه STEM، کدنویسی و رباتیک کودکان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 12,
+  "ok": true,
+  "kw_used": "Kennedy Space Center Visitor Complex",
+  "file_used": "File:Kennedy Space Center Visitor Complex (KSC-20170912-PH SWW01 0357).jpg",
+  "width": 5616,
+  "path": "12_موزه فضایی و پارک موشک.jpg",
+  "bytes": 819176
+ },
+ {
+  "n": 13,
+  "ok": true,
+  "kw_used": "Persian Gulf coral reef",
+  "file_used": "File:ISS035-E-34935 - View of United Arab Emirates.jpg",
+  "width": 4288,
+  "path": "13_ایستگاه پژوهشی زیست‌دریایی و مرجان خلیج فارس.jpg",
+  "bytes": 290986
+ },
+ {
+  "n": 14,
+  "ok": true,
+  "kw_used": "Ithra King Abdulaziz Center for World Culture",
+  "file_used": "File:King Abdulaziz Center for World Culture, 3d model.jpg",
+  "width": 4160,
+  "path": "14_موزه هنر معاصر.jpg",
+  "bytes": 288994
+ },
+ {
+  "n": 15,
+  "ok": true,
+  "kw_used": "Kish Island",
+  "file_used": "File:Beach (23420424054).jpg",
+  "width": 3888,
+  "path": "15_موزه تاریخ کیش و تمدن دلمون.jpg",
+  "bytes": 334342
+ },
+ {
+  "n": 16,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "16_پارک باستان‌شناسی سرزمینی (حریق‌ره).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 17,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "17_مرکز صنایع دستی سنتی + کارگاه زنده.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 18,
+  "ok": true,
+  "kw_used": "Persian calligraphy",
+  "file_used": "File:Persian Inscription at Sajjangad.jpg",
+  "width": 5184,
+  "path": "18_تالار خوشنویسی و نسخ خطی.jpg",
+  "bytes": 749111
+ },
+ {
+  "n": 19,
+  "ok": true,
+  "kw_used": "Stadtbibliothek Stuttgart",
+  "file_used": "File:Innen Stadtbibliothek Stuttgart 02.jpg",
+  "width": 8160,
+  "path": "19_کتابخانه عمومی + کتابخانه پژوهشی.jpg",
+  "bytes": 821832
+ },
+ {
+  "n": 20,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "20_امفی‌تئاتر روباز.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 21,
+  "ok": true,
+  "kw_used": "Elbphilharmonie Hamburg",
+  "file_used": "File:Hamburg, Barkassenfahrt NIK 3536.jpg",
+  "width": 5670,
+  "path": "21_سالن کنسرت سمفونیک.jpg",
+  "bytes": 540215
+ },
+ {
+  "n": 22,
+  "ok": true,
+  "kw_used": "black box theatre",
+  "file_used": "File:Mill Studio (interior), Yvonne Arnaud Theatre, Guildford, Surrey - September 2025 - 01.jpg",
+  "width": 4096,
+  "path": "22_تئاتر کوچک   آزمایشگاهی.jpg",
+  "bytes": 561813
+ },
+ {
+  "n": 23,
+  "ok": true,
+  "kw_used": "IMAX screen",
+  "file_used": "File:IMAX screen.jpg",
+  "width": 4032,
+  "path": "23_سینما (مولتی‌پلکس + آرته‌اوز + گنبد).jpg",
+  "bytes": 291049
+ },
+ {
+  "n": 24,
+  "ok": true,
+  "kw_used": "Louvre at night",
+  "file_used": "File:Pont Royal and Musée du Louvre (22288822288).jpg",
+  "width": 7360,
+  "path": "24_برنامه موزه‌های شب (Night Museums).jpg",
+  "bytes": 633630
+ },
+ {
+  "n": 25,
+  "ok": true,
+  "kw_used": "night market street food",
+  "file_used": "File:DSC 8534 Night market street food stalls and scooters line a busy urban road steam rising from a vendors grill as traffic passes under neon lights.jpg",
+  "width": 6048,
+  "path": "25_بازار شبانه و اجراهای خیابانی.jpg",
+  "bytes": 624281
+ },
+ {
+  "n": 26,
+  "ok": true,
+  "kw_used": "Hosier Lane Melbourne",
+  "file_used": "File:Hosier Lane, Melbourne, Australia (Unsplash 7pq V5KGHCc).jpg",
+  "width": 4795,
+  "path": "26_محله هنر خیابانی (دیوارکالی).jpg",
+  "bytes": 771604
+ },
+ {
+  "n": 27,
+  "ok": true,
+  "kw_used": "puppet theatre",
+  "file_used": "File:Padmasree Ramachandra Pulavar (4).jpg",
+  "width": 5184,
+  "path": "27_تئاتر و موزه عروسکی.jpg",
+  "bytes": 471711
+ },
+ {
+  "n": 28,
+  "ok": true,
+  "kw_used": "book cafe",
+  "file_used": "File:Interior of Helsinki Airport Vantaa.jpg",
+  "width": 5710,
+  "path": "28_مرکز ادبیات و شعر (کافه-کتاب + روخوانی).jpg",
+  "bytes": 771893
+ },
+ {
+  "n": 29,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "29_مرکز رسانه و اتاق خبر.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 30,
+  "kw": "Pinewood Studios",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 30,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "30_استودیو فیلم و هاب تولید (با بخش پست‌پroduzione).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 31,
+  "kw": "radio studio microphone",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 31,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "31_استودیو پادکست و رادیو.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 32,
+  "ok": true,
+  "kw_used": "Museum of the Moving Image",
+  "file_used": "File:Museum of the Moving Image - 8281936783.jpg",
+  "width": 5616,
+  "path": "32_موزه تاریخ رسانه (عکس، فیلم، تلویزیون، اینترنت).jpg",
+  "bytes": 327564
+ },
+ {
+  "n": 33,
+  "kw": "press conference journalists",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 33,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "33_مدرسه روزنامه‌نگاری دیجیتال   انکوباتور رسانه.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 34,
+  "ok": true,
+  "kw_used": "esports arena",
+  "file_used": "File:All-Star eSports Arena, Taipei Game Show 20190128a.jpg",
+  "width": 4896,
+  "path": "34_آرنای بازی‌های دیجیتال   اسپورت.jpg",
+  "bytes": 524295
+ },
+ {
+  "n": 35,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "35_مرکز زبان بین‌المللی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 36,
+  "ok": true,
+  "kw_used": "university campus",
+  "file_used": "File:MACZUL.jpg",
+  "width": 4476,
+  "path": "36_کیمپوس دانشگاهی پژوهشی یکپارچه.jpg",
+  "bytes": 474237
+ },
+ {
+  "n": 37,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "37_مرکز همایش و کنفرانس بین‌المللی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 38,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "38_آزمایشگاه حفاظت و مرمت آثار.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 39,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "39_آموزش مادام‌العمر   آموزش بزرگسالان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 40,
+  "ok": true,
+  "kw_used": "KidZania",
+  "file_used": "File:Kidzania (3).JPG",
+  "width": 4288,
+  "path": "40_شهر کودکان (Role-play   KidZania).jpg",
+  "bytes": 502540
+ },
+ {
+  "n": 41,
+  "ok": true,
+  "kw_used": "escape room",
+  "file_used": "File:Tulleys Farm Outfitter Escape Room.jpg",
+  "width": 6720,
+  "path": "41_اتاق فرار و چالش داستانی.jpg",
+  "bytes": 522785
+ },
+ {
+  "n": 42,
+  "ok": true,
+  "kw_used": "immersive theatre",
+  "file_used": "File:Then She Fell, with Annemarie. (41382636160).jpg",
+  "width": 4896,
+  "path": "42_تئاتر غوطه‌ور (Immersive Theatre).jpg",
+  "bytes": 661725
+ },
+ {
+  "n": 43,
+  "ok": true,
+  "kw_used": "Singapore Flyer",
+  "file_used": "File:Dikaiosp 210819 6963.jpg",
+  "width": 6720,
+  "path": "43_دکل دیدبان و چرخ و فلک.jpg",
+  "bytes": 665224
+ },
+ {
+  "n": 44,
+  "ok": true,
+  "kw_used": "open-air cinema",
+  "file_used": "File:Karviná - Park Boženy Němcové - Letní kino , Outdoor cinema - ICE Photo compilation Viewing from North to South.jpg",
+  "width": 5079,
+  "path": "44_سینمای روباز (آسمان‌نشین).jpg",
+  "bytes": 398943
+ },
+ {
+  "n": 45,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "45_باغ روی بام، باغ عمودی و گلخانه استوایی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 46,
+  "ok": true,
+  "kw_used": "padel court",
+  "file_used": "File:Padel court Nsambya.jpg",
+  "width": 4928,
+  "path": "46_ورزش و فیتنس (پادل، باشگاه، ورزش‌های ساحلی).jpg",
+  "bytes": 674728
+ },
+ {
+  "n": 47,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "47_ولنس و تالاسو اسپا.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 48,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "48_مرکز اکو-تفسیری تالاب و پرنده‌نگری (تالاب حنگ).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 49,
+  "ok": true,
+  "kw_used": "Mad Science",
+  "file_used": "File:OPSPARC 2019 Winners - 48838685782.jpg",
+  "width": 7360,
+  "path": "49_تئاتر نمایش علمی زنده (Science Show).jpg",
+  "bytes": 596148
+ },
+ {
+  "n": 50,
+  "kw": "Mercato Centrale Florence",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 50,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "50_سال غذا   هال فست‌فود (Food Hall).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 51,
+  "ok": true,
+  "kw_used": "WeWork office",
+  "file_used": "File:Fulton Ctr td (2018-3-22) 39 - Freedom Wine Cellar.jpg",
+  "width": 5472,
+  "path": "51_کوورکینگ فناورانه با تلفیق کافه مدرن.jpg",
+  "bytes": 414290
+ },
+ {
+  "n": 52,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "52_رستوران تراس با منظره.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 53,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "53_هتل موزه‌ای   بوتیک (داخل مجموعه فرهنگی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 54,
+  "ok": true,
+  "kw_used": "museum gift shop",
+  "file_used": "File:Shubenacadie Tinsmith Museum front counter 2025.jpg",
+  "width": 5184,
+  "path": "54_خرده‌فروشی خلاقانه   فروشگاه موزه.jpg",
+  "bytes": 582620
+ },
+ {
+  "n": 55,
+  "ok": true,
+  "kw_used": "Dubai Mall",
+  "file_used": "File:Dubai Mall, 2013 (Ank Kumar) 04.jpg",
+  "width": 4608,
+  "path": "55_پاساژ تجاری سطح بالا در منطقه آزاد.jpg",
+  "bytes": 658322
+ },
+ {
+  "n": 56,
+  "ok": true,
+  "kw_used": "tourist information office",
+  "file_used": "File:Arche Nebra 20210913 HOF05659 RAW-Export 20220404001838cens.jpg",
+  "width": 8245,
+  "path": "56_مرکز اطلاع‌رسانی گردشگری.jpg",
+  "bytes": 509567
+ },
+ {
+  "n": 57,
+  "ok": true,
+  "kw_used": "Federation Square Melbourne",
+  "file_used": "File:Robert Dowling - A Sheikh and his son entering Cairo on their return from a pilgrimage to Mecca - Google Art Project.jpg",
+  "width": 6313,
+  "path": "57_میدان فستیوال (Festival Square).jpg",
+  "bytes": 770568
+ },
+ {
+  "n": 58,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "58_پیاده‌روی ساحلی فرهنگی (Waterfront Promenade).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 59,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "59_مارینا با موزه دریانوردی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 60,
+  "ok": true,
+  "kw_used": "Dubai Fountain",
+  "file_used": "File:At the Top SKY @ Burj Khalifa @ Dubai (15263595174).jpg",
+  "width": 3968,
+  "path": "60_نمایش نور و فواره شبانه.jpg",
+  "bytes": 981841
+ },
+ {
+  "n": 61,
+  "ok": false,
+  "kw_used": null,
+  "file_used": null,
+  "width": null,
+  "path": "61_خانهٔ دائمی جشنواره‌ها (Festival House).jpg",
+  "bytes": 0
+ }
+]

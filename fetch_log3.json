@@ -1,0 +1,182 @@
+[
+ {
+  "n": 1,
+  "ok": true,
+  "src_q": "commons:Exploratorium San Francisco",
+  "file_used": "File:Bacteriapolis at the Exploratorium.jpg",
+  "width": 4504,
+  "path": "01_مرکز علم تعاملی.jpg",
+  "bytes": 468856
+ },
+ {
+  "n": 4,
+  "ok": true,
+  "src_q": "commons:teamLab Borderless",
+  "file_used": "File:TeamLab Borderless, Odaiba, Tokyo, Japan (49070650346).jpg",
+  "width": 6000,
+  "path": "04_نمایشگاه هنر دیجیتال غوطه‌ور (Immersive).jpg",
+  "bytes": 332741
+ },
+ {
+  "n": 6,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "06_موزه هنر زیرآبی (با تور غواصی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 7,
+  "ok": true,
+  "src_q": "commons:Royal Observatory Greenwich",
+  "file_used": "File:Royal Observatory Greenwich (January 2024) 01.jpg",
+  "width": 6000,
+  "path": "07_رصدخانه نجوم و برنامه «آسمان تاریک».jpg",
+  "bytes": 343738
+ },
+ {
+  "n": 8,
+  "ok": true,
+  "src_q": "commons:Fab Lab",
+  "file_used": "File:Ciudadanos en FabLAB de LABNL.jpg",
+  "width": 5616,
+  "path": "08_میکر‌اسپیس و فابل‌لب (چاپ سه‌بعدی و ساخت دیجیتال).jpg",
+  "bytes": 296204
+ },
+ {
+  "n": 11,
+  "src": "commons",
+  "q": "children robotics",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 11,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "11_مدرسه STEM، کدنویسی و رباتیک کودکان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 14,
+  "ok": true,
+  "src_q": "commons:Ithra",
+  "file_used": "File:NW116-22 Ortilia ithra (3430243084).jpg",
+  "width": 2272,
+  "path": "14_موزه هنر معاصر.jpg",
+  "bytes": 1424453
+ },
+ {
+  "n": 18,
+  "ok": true,
+  "src_q": "commons:Arabic calligraphy",
+  "file_used": "File:Holy Spirit Calligraphy in the church of Deir Mar Musa al-Habashi.jpg",
+  "width": 2496,
+  "path": "18_تالار خوشنویسی و نسخ خطی.jpg",
+  "bytes": 491561
+ },
+ {
+  "n": 21,
+  "ok": true,
+  "src_q": "commons:Elbphilharmonie",
+  "file_used": "File:Hamburg, Barkassenfahrt NIK 3536.jpg",
+  "width": 5670,
+  "path": "21_سالن کنسرت سمفونیک.jpg",
+  "bytes": 540215
+ },
+ {
+  "n": 22,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "22_تئاتر کوچک   آزمایشگاهی.jpg",
+  "bytes": 1041465
+ },
+ {
+  "n": 35,
+  "src": "commons",
+  "q": "English classroom",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 35,
+  "ok": true,
+  "src_q": "commons:language classroom",
+  "file_used": "File:Classroom in the U.S.jpg",
+  "width": 2048,
+  "path": "35_مرکز زبان بین‌المللی.jpg",
+  "bytes": 447890
+ },
+ {
+  "n": 39,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "39_آموزش مادام‌العمر   آموزش بزرگسالان.jpg",
+  "bytes": 438296
+ },
+ {
+  "n": 48,
+  "src": "commons",
+  "q": "wetland birds",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 48,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "48_مرکز اکو-تفسیری تالاب و پرنده‌نگری (تالاب حنگ).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 49,
+  "ok": true,
+  "src_q": "commons:Mad Science",
+  "file_used": "File:OPSPARC 2019 Winners - 48838685782.jpg",
+  "width": 7360,
+  "path": "49_تئاتر نمایش علمی زنده (Science Show).jpg",
+  "bytes": 596148
+ },
+ {
+  "n": 56,
+  "ok": true,
+  "src_q": "commons:tourist information centre",
+  "file_used": "File:Arche Nebra 20210913 HOF05659 RAW-Export 20220404001838cens.jpg",
+  "width": 8245,
+  "path": "56_مرکز اطلاع‌رسانی گردشگری.jpg",
+  "bytes": 509567
+ },
+ {
+  "n": 59,
+  "ok": true,
+  "src_q": "commons:Dubai Marina",
+  "file_used": "File:UAE Dubai Marina img1 asv2018-01.jpg",
+  "width": 6595,
+  "path": "59_مارینا با موزه دریانوردی.jpg",
+  "bytes": 690586
+ },
+ {
+  "n": 60,
+  "ok": true,
+  "src_q": "commons:Dubai Fountain",
+  "file_used": "File:At the Top SKY @ Burj Khalifa @ Dubai (15263595174).jpg",
+  "width": 3968,
+  "path": "60_نمایش نور و فواره شبانه.jpg",
+  "bytes": 981841
+ },
+ {
+  "n": 61,
+  "ok": true,
+  "src_q": "commons:film festival cinema",
+  "file_used": "File:Simisolaoluwa Akande 2024 BHO-3291.jpg",
+  "width": 3646,
+  "path": "61_خانهٔ دائمی جشنواره‌ها (Festival House).jpg",
+  "bytes": 703964
+ }
+]

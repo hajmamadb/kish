@@ -1,0 +1,479 @@
+[
+ {
+  "n": 1,
+  "src": "wiki",
+  "q": "Exploratorium",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 1,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "01_مرکز علم تعاملی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 2,
+  "ok": true,
+  "src_q": "wiki:Please Touch Museum",
+  "file_used": "Please Touch Museum",
+  "width": 1920,
+  "path": "02_مرکز علمی کودکان (با تفکیک سن).jpg",
+  "bytes": 397380
+ },
+ {
+  "n": 3,
+  "ok": true,
+  "src_q": "wiki:La Géode",
+  "file_used": "La Géode",
+  "width": 1920,
+  "path": "03_پلانتریوم و گنبد کیهانی.jpg",
+  "bytes": 643684
+ },
+ {
+  "n": 4,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "04_نمایشگاه هنر دیجیتال غوطه‌ور (Immersive).jpg",
+  "bytes": 332741
+ },
+ {
+  "n": 5,
+  "src": "wiki",
+  "q": "Dubai Aquarium and Underwater Zoo",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 5,
+  "ok": true,
+  "src_q": "wiki:Monterey Bay Aquarium",
+  "file_used": "Monterey Bay Aquarium",
+  "width": 1920,
+  "path": "05_آکواریم و مرکز دانش دریا.jpg",
+  "bytes": 581233
+ },
+ {
+  "n": 6,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "06_موزه هنر زیرآبی (با تور غواصی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 7,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "07_رصدخانه نجوم و برنامه «آسمان تاریک».jpg",
+  "bytes": 0
+ },
+ {
+  "n": 8,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "08_میکر‌اسپیس و فابل‌لب (چاپ سه‌بعدی و ساخت دیجیتال).jpg",
+  "bytes": 296204
+ },
+ {
+  "n": 9,
+  "ok": true,
+  "src_q": "commons:virtual reality headset",
+  "file_used": "File:VR Box (Virtual Reality Glasses), Krimpen aan den IJssel (2020).jpg",
+  "width": 4864,
+  "path": "09_مرکز تجربه VR AR (واقعیت مجازی آزادراه‌دار).jpg",
+  "bytes": 197146
+ },
+ {
+  "n": 11,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "11_مدرسه STEM، کدنویسی و رباتیک کودکان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 13,
+  "ok": true,
+  "src_q": "commons:coral reef",
+  "file_used": "File:Coral Outcrop Flynn Reef.jpg",
+  "width": 4000,
+  "path": "13_ایستگاه پژوهشی زیست‌دریایی و مرجان خلیج فارس.jpg",
+  "bytes": 801614
+ },
+ {
+  "n": 14,
+  "src": "wiki",
+  "q": "King Abdulaziz Center for World Culture",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 14,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "14_موزه هنر معاصر.jpg",
+  "bytes": 288994
+ },
+ {
+  "n": 15,
+  "ok": true,
+  "src_q": "wiki:Kish Island",
+  "file_used": "Kish Island",
+  "width": 1920,
+  "path": "15_موزه تاریخ کیش و تمدن دلمون.jpg",
+  "bytes": 707091
+ },
+ {
+  "n": 16,
+  "ok": true,
+  "src_q": "commons:Dilmun",
+  "file_used": "File:Bahrein-site 1542 0006.jpg",
+  "width": 4000,
+  "path": "16_پارک باستان‌شناسی سرزمینی (حریق‌ره).jpg",
+  "bytes": 1597075
+ },
+ {
+  "n": 17,
+  "ok": true,
+  "src_q": "commons:potter wheel",
+  "file_used": "File:Pottery maker01.jpg",
+  "width": 5647,
+  "path": "17_مرکز صنایع دستی سنتی + کارگاه زنده.jpg",
+  "bytes": 671142
+ },
+ {
+  "n": 18,
+  "ok": true,
+  "src_q": "commons:Persian calligraphy",
+  "file_used": "File:Persian Inscription at Sajjangad.jpg",
+  "width": 5184,
+  "path": "18_تالار خوشنویسی و نسخ خطی.jpg",
+  "bytes": 749111
+ },
+ {
+  "n": 20,
+  "ok": true,
+  "src_q": "wiki:Theatre of Delphi",
+  "file_used": "Delphi",
+  "width": 1920,
+  "path": "20_امفی‌تئاتر روباز.jpg",
+  "bytes": 724816
+ },
+ {
+  "n": 21,
+  "src": "wiki",
+  "q": "Elbphilharmonie",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 21,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "21_سالن کنسرت سمفونیک.jpg",
+  "bytes": 540215
+ },
+ {
+  "n": 22,
+  "ok": true,
+  "src_q": "commons:theatre stage",
+  "file_used": "File:Ankara asv2021-10 img54 view from Gençlik Park Ferris wheel.jpg",
+  "width": 7298,
+  "path": "22_تئاتر کوچک   آزمایشگاهی.jpg",
+  "bytes": 1041465
+ },
+ {
+  "n": 24,
+  "ok": true,
+  "src_q": "commons:Louvre at night",
+  "file_used": "File:Pont Royal and Musée du Louvre (22288822288).jpg",
+  "width": 7360,
+  "path": "24_برنامه موزه‌های شب (Night Museums).jpg",
+  "bytes": 633630
+ },
+ {
+  "n": 27,
+  "ok": true,
+  "src_q": "commons:wayang kulit",
+  "file_used": "File:Bimasena Tengger.png",
+  "width": 4000,
+  "path": "27_تئاتر و موزه عروسکی.jpg",
+  "bytes": 3101153
+ },
+ {
+  "n": 28,
+  "ok": true,
+  "src_q": "commons:bookshop interior",
+  "file_used": "File:Gillette College Bookstore bookshop interior at Gillette College main building in Gillette, Wyoming.jpg",
+  "width": 5472,
+  "path": "28_مرکز ادبیات و شعر (کافه-کتاب + روخوانی).jpg",
+  "bytes": 777156
+ },
+ {
+  "n": 29,
+  "ok": true,
+  "src_q": "commons:newsroom",
+  "file_used": "File:1984 Minnesota Daily Newspaper office at the U of Minnesota-06.jpg",
+  "width": 4588,
+  "path": "29_مرکز رسانه و اتاق خبر.jpg",
+  "bytes": 344242
+ },
+ {
+  "n": 30,
+  "src": "wiki",
+  "q": "Pinewood Studios",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 30,
+  "ok": true,
+  "src_q": "commons:film studio lot",
+  "file_used": "File:Aurora De Lucia in a break room at the Fox Studios lot in Century City, California.jpg",
+  "width": 3024,
+  "path": "30_استودیو فیلم و هاب تولید (با بخش پست‌پroduzione).jpg",
+  "bytes": 952307
+ },
+ {
+  "n": 31,
+  "ok": true,
+  "src_q": "commons:radio studio",
+  "file_used": "File:Radio Studio 54 Angels.jpg",
+  "width": 3648,
+  "path": "31_استودیو پادکست و رادیو.jpg",
+  "bytes": 570344
+ },
+ {
+  "n": 33,
+  "ok": true,
+  "src_q": "commons:press conference",
+  "file_used": "File:IAA 2024, Hanover (P1190787).jpg",
+  "width": 4608,
+  "path": "33_مدرسه روزنامه‌نگاری دیجیتال   انکوباتور رسانه.jpg",
+  "bytes": 503682
+ },
+ {
+  "n": 35,
+  "ok": true,
+  "src_q": "commons:classroom students",
+  "file_used": "File:Jim Justice DSC 1953 (33179942481).jpg",
+  "width": 4288,
+  "path": "35_مرکز زبان بین‌المللی.jpg",
+  "bytes": 433296
+ },
+ {
+  "n": 36,
+  "ok": true,
+  "src_q": "commons:university campus",
+  "file_used": "File:MACZUL.jpg",
+  "width": 4476,
+  "path": "36_کیمپوس دانشگاهی پژوهشی یکپارچه.jpg",
+  "bytes": 474237
+ },
+ {
+  "n": 37,
+  "ok": true,
+  "src_q": "commons:convention center",
+  "file_used": "File:Cologne Germany Flora-Köln-00-1b.jpg",
+  "width": 5222,
+  "path": "37_مرکز همایش و کنفرانس بین‌المللی.jpg",
+  "bytes": 547410
+ },
+ {
+  "n": 38,
+  "ok": true,
+  "src_q": "commons:painting restoration",
+  "file_used": "File:Saint Cecilia on the organ, by Michiel Coxie, with panel about its restoration, anniversary exhibition, La Boverie, Liège, 2026.jpg",
+  "width": 4286,
+  "path": "38_آزمایشگاه حفاظت و مرمت آثار.jpg",
+  "bytes": 440225
+ },
+ {
+  "n": 39,
+  "ok": true,
+  "src_q": "commons:adult education class",
+  "file_used": "File:Granada Relocation Center, Amache, Colorado. An adult education class in fine needlework. The teac . . . - NARA - 539024.jpg",
+  "width": 3000,
+  "path": "39_آموزش مادام‌العمر   آموزش بزرگسالان.jpg",
+  "bytes": 438296
+ },
+ {
+  "n": 42,
+  "ok": true,
+  "src_q": "commons:immersive theatre",
+  "file_used": "File:Then She Fell, with Annemarie. (41382636160).jpg",
+  "width": 4896,
+  "path": "42_تئاتر غوطه‌ور (Immersive Theatre).jpg",
+  "bytes": 661725
+ },
+ {
+  "n": 43,
+  "ok": true,
+  "src_q": "wiki:Singapore Flyer",
+  "file_used": "Singapore Flyer",
+  "width": 1920,
+  "path": "43_دکل دیدبان و چرخ و فلک.jpg",
+  "bytes": 1137830
+ },
+ {
+  "n": 45,
+  "ok": true,
+  "src_q": "wiki:Bosco Verticale",
+  "file_used": "Bosco Verticale",
+  "width": 1920,
+  "path": "45_باغ روی بام، باغ عمودی و گلخانه استوایی.jpg",
+  "bytes": 1473773
+ },
+ {
+  "n": 47,
+  "ok": true,
+  "src_q": "commons:hot springs pool",
+  "file_used": "File:Glenwood Hot Springs Pool 2020.JPG",
+  "width": 4716,
+  "path": "47_ولنس و تالاسو اسپا.jpg",
+  "bytes": 647681
+ },
+ {
+  "n": 48,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "48_مرکز اکو-تفسیری تالاب و پرنده‌نگری (تالاب حنگ).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 49,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "49_تئاتر نمایش علمی زنده (Science Show).jpg",
+  "bytes": 596148
+ },
+ {
+  "n": 50,
+  "ok": true,
+  "src_q": "wiki:Mercato Centrale",
+  "file_used": "Mercato Centrale (Florence)",
+  "width": 1920,
+  "path": "50_سال غذا   هال فست‌فود (Food Hall).jpg",
+  "bytes": 530637
+ },
+ {
+  "n": 51,
+  "ok": true,
+  "src_q": "commons:coworking space",
+  "file_used": "File:CM Deep Ellum 12122018-28 (1).jpg",
+  "width": 5472,
+  "path": "51_کوورکینگ فناورانه با تلفیق کافه مدرن.jpg",
+  "bytes": 685135
+ },
+ {
+  "n": 52,
+  "ok": true,
+  "src_q": "commons:rooftop restaurant",
+  "file_used": "File:Wauwatosa June 2024 018 (Buckatabon and Café Hollander patio).jpg",
+  "width": 6000,
+  "path": "52_رستوران تراس با منظره.jpg",
+  "bytes": 657300
+ },
+ {
+  "n": 53,
+  "ok": true,
+  "src_q": "commons:boutique hotel",
+  "file_used": "File:Hotel Casa del Jardín en la calle Enrique Fernández Ledesma 01.jpg",
+  "width": 4592,
+  "path": "53_هتل موزه‌ای   بوتیک (داخل مجموعه فرهنگی).jpg",
+  "bytes": 745631
+ },
+ {
+  "n": 56,
+  "ok": true,
+  "src_q": "commons:tourist information",
+  "file_used": "File:Arche Nebra 20210913 HOF05659 RAW-Export 20220404001838cens.jpg",
+  "width": 8245,
+  "path": "56_مرکز اطلاع‌رسانی گردشگری.jpg",
+  "bytes": 509567
+ },
+ {
+  "n": 57,
+  "ok": true,
+  "src_q": "wiki:Federation Square",
+  "file_used": "Federation Square",
+  "width": 1920,
+  "path": "57_میدان فستیوال (Festival Square).jpg",
+  "bytes": 770023
+ },
+ {
+  "n": 58,
+  "ok": true,
+  "src_q": "wiki:Dubai Marina",
+  "file_used": "Dubai Marina",
+  "width": 1920,
+  "path": "58_پیاده‌روی ساحلی فرهنگی (Waterfront Promenade).jpg",
+  "bytes": 910238
+ },
+ {
+  "n": 59,
+  "src": "wiki",
+  "q": "Dubai Maritime City",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 59,
+  "src": "commons",
+  "q": "marina yachts",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 59,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "59_مارینا با موزه دریانوردی.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 60,
+  "src": "wiki",
+  "q": "Dubai Fountain",
+  "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+ },
+ {
+  "n": 60,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "60_نمایش نور و فواره شبانه.jpg",
+  "bytes": 981841
+ },
+ {
+  "n": 61,
+  "src": "wiki",
+  "q": "International Film Festival Rotterdam",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 61,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "61_خانهٔ دائمی جشنواره‌ها (Festival House).jpg",
+  "bytes": 0
+ }
+]

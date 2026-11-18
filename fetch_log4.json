@@ -1,0 +1,134 @@
+[
+ {
+  "n": 6,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "06_موزه هنر زیرآبی (با تور غواصی).jpg",
+  "bytes": 0
+ },
+ {
+  "n": 11,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "11_مدرسه STEM، کدنویسی و رباتیک کودکان.jpg",
+  "bytes": 0
+ },
+ {
+  "n": 14,
+  "src": "wiki",
+  "q": "King Abdulaziz Center for World Culture",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 14,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "14_موزه هنر معاصر.jpg",
+  "bytes": 1424453
+ },
+ {
+  "n": 18,
+  "ok": true,
+  "src_q": "commons:Islamic calligraphy",
+  "file_used": "File:Hagia Sophia - Muhammad's prophecy.jpg",
+  "width": 2680,
+  "path": "18_تالار خوشنویسی و نسخ خطی.jpg",
+  "bytes": 408303
+ },
+ {
+  "n": 21,
+  "src": "wiki",
+  "q": "Elbphilharmonie",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 21,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "21_سالن کنسرت سمفونیک.jpg",
+  "bytes": 540215
+ },
+ {
+  "n": 22,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "22_تئاتر کوچک   آزمایشگاهی.jpg",
+  "bytes": 1041465
+ },
+ {
+  "n": 39,
+  "ok": true,
+  "src_q": "commons:university lecture hall",
+  "file_used": "File:View from the old Shoreham, 15th & H, N.W., N.W. corner, looking East to Southeast showing the Hall of the Ancients and Church of the Epiphany in the distance and The Elsmere, Columbian LCCN2016646809.jpg",
+  "width": 8987,
+  "path": "39_آموزش مادام‌العمر   آموزش بزرگسالان.jpg",
+  "bytes": 357128
+ },
+ {
+  "n": 48,
+  "ok": true,
+  "src_q": "cat:Kish Island",
+  "file_used": "File:Catch the moon (24029559135).jpg",
+  "width": 3888,
+  "path": "48_مرکز اکو-تفسیری تالاب و پرنده‌نگری (تالاب حنگ).jpg",
+  "bytes": 250560
+ },
+ {
+  "n": 49,
+  "ok": true,
+  "src_q": "commons:science show",
+  "file_used": "File:Herbert Walter Roesky - Chemical Curiosities - Kolkata 2011-02-09 0686.JPG",
+  "width": 4288,
+  "path": "49_تئاتر نمایش علمی زنده (Science Show).jpg",
+  "bytes": 412433
+ },
+ {
+  "n": 56,
+  "ok": true,
+  "src_q": "commons:tourist office",
+  "file_used": "File:Arche Nebra 20210913 HOF05659 RAW-Export 20220404001838cens.jpg",
+  "width": 8245,
+  "path": "56_مرکز اطلاع‌رسانی گردشگری.jpg",
+  "bytes": 509567
+ },
+ {
+  "n": 60,
+  "ok": true,
+  "src_q": "wiki:Dubai Fountain",
+  "file_used": "Dubai Fountain",
+  "width": 1920,
+  "path": "60_نمایش نور و فواره شبانه.jpg",
+  "bytes": 367273
+ },
+ {
+  "n": 61,
+  "src": "wiki",
+  "q": "International Film Festival Rotterdam",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 61,
+  "src": "wiki",
+  "q": "Cannes Film Festival",
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 61,
+  "ok": false,
+  "src_q": null,
+  "file_used": null,
+  "width": null,
+  "path": "61_خانهٔ دائمی جشنواره‌ها (Festival House).jpg",
+  "bytes": 703964
+ }
+]
